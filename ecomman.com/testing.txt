@@ -3,3 +3,6 @@ testing 0123
 Even though the "stephenstephenson" account was logged out of, because the name field was still populated with this information it instead of posting from the logged in account of "programpacific" it still showed the push information as being from "stephenstephenson". 
 
 After changing these settings manually and pushing these two commits, it is now working correctly, interesting!
+
+
+Testing Push With Visual Studio Community 2017
